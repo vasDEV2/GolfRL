@@ -114,11 +114,6 @@ while not done:
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License.  
-
----
-
 ## 🙌 Acknowledgements
 - [Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3)  
 - [Gymnasium / Farama Foundation](https://farama.org/)  
