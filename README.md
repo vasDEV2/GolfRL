@@ -14,7 +14,7 @@ The project is built using:
 ## 🎥 Demo
 
 
-![Demo](videos/testing_dtu.gif)
+![Demo](videos/training_model.gif)
 
 
 ---
