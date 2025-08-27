@@ -15,7 +15,7 @@ The project is built using:
 
 
 <p align="center">
-  <img src="media/demo.gif" alt="Franka Golf RL Demo" width="600"/>
+  <img src="videos/trained_model.gif" alt="Franka Golf RL Demo" width="600"/>
 </p>
 
 *(Click the image to watch the demo video)*
