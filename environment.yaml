@@ -1,0 +1,30 @@
+name: franka
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - jupyter
+  - ipykernel
+  - pip:
+      - gymnasium==1.1.1
+      - stable-baselines3==2.7.0
+      - torch==2.7.0+cu118
+      - torchvision==0.22.0+cu118
+      - torchaudio==2.7.0+cu118
+      - mujoco==3.3.5
+      - opencv-python==4.12.0.88
+      - moviepy==1.0.3
+      - pygame==2.6.1
+      - pyopengl==3.1.9
+      - pyquaternion==0.9.9
+      - tensorboard==2.20.0
+      - sai-mujoco==0.1.12
+      - sai-pygame==0.1.6
+      - sai-rl==0.1.19
+
