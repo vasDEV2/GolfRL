@@ -92,25 +92,7 @@ while not done:
 - [Gymnasium](https://gymnasium.farama.org/)  
 - [PyTorch](https://pytorch.org/) with CUDA support  
 - [MuJoCo](https://mujoco.org/)  
-- [SAI](https://sai-rl.org/) client libraries (`sai-rl`, `sai-mujoco`, `sai-pygame`)  
-- Visualization & utilities: `matplotlib`, `pygame`, `opencv-python`, `moviepy`, `pyquaternion`  
-
----
-
-## 🛠️ Troubleshooting
-
-- **Conda conflicts** → Update conda:
-  ```bash
-  conda update -n base -c defaults conda
-  ```
-- **SAI environment not found** → Ensure the env ID is correct (`FrankaIkGolfCourseEnv-v0`) and your API key is valid.  
-- **CUDA mismatch** → Adjust the PyTorch install (`torch==2.7.0+cu118` was tested here).  
-- **Demo GIF not showing in README** → Make sure `videos/testing_dtu.gif` is added & pushed to the repo:
-  ```bash
-  git add videos/testing_dtu.gif
-  git commit -m "Add demo gif"
-  git push origin main
-  ```
+- [SAI](https://competesai.com/) client libraries (`sai-rl`, `sai-mujoco`, `sai-pygame`)  
 
 ---
 
