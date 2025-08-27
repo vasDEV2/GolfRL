@@ -14,7 +14,7 @@ The project is built using:
 ## 🎥 Demo
 
 
-![Demo](videos/training_model.gif)
+![Demo](videos/trained_model.gif)
 
 
 ---
