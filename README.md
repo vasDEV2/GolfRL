@@ -6,7 +6,7 @@ The task is to learn a policy that enables the robot to grasp the golf club, ali
 The project is built using:  
 - [Stable-Baselines3 (SB3)](https://github.com/DLR-RM/stable-baselines3) for RL algorithms  
 - [Gymnasium](https://gymnasium.farama.org/) for standardized RL interfaces  
-- [SAI](https://sai-rl.org/) (Simulation AI) platform for environment hosting  
+- [SAI](https://competesai.com/) (Simulation AI) platform for environment hosting  
 - [MuJoCo](https://mujoco.org/) as the physics engine  
 
 ---
