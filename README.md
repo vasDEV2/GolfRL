@@ -14,11 +14,8 @@ The project is built using:
 ## 🎥 Demo
 
 
-<p align="center">
-  <img src="videos/trained_model.gif" alt="Franka Golf RL Demo" width="600"/>
-</p>
+![Demo](videos/testing_dtu.gif)
 
-*(Click the image to watch the demo video)*
 
 ---
 
