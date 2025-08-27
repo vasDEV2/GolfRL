@@ -13,10 +13,9 @@ The project is built using:
 
 ## 🎥 Demo
 
+
 <p align="center">
-  <video src="https://github.com/vasDEV2/GolfRL/raw/main/media/demo.mp4" 
-         width="600" controls>
-  </video>
+  <img src="media/demo.gif" alt="Franka Golf RL Demo" width="600"/>
 </p>
 
 *(Click the image to watch the demo video)*
